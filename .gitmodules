@@ -1,24 +1,27 @@
-[submodule "contributors"]
-	path = contributors
-	url = git@github.com:theelioway/contributors.git
+[submodule "gutenberg"]
+	path = gutenberg
+	url = git@github.com:theelioway/gutenberg.git
 [submodule "dore"]
 	path = dore
 	url = git@github.com:theelioway/dore.git
-[submodule "gutenburg"]
-	path = gutenburg
-	url = git@github.com:theelioway/gutenburg.git
 [submodule "smith"]
 	path = smith
 	url = git@github.com:theelioway/smith.git
-[submodule "lodash"]
-	path = lodash
-	url = git@github.com:theelioway/lodash.git
-[submodule "nanoid"]
-	path = nanoid
-	url = git@github.com:theelioway/nanoid.git
-[submodule "micro"]
-	path = micro
-	url = git@github.com:theelioway/micro.git
 [submodule "prettier"]
 	path = prettier
 	url = git@github.com:theelioway/prettier.git
+[submodule "micro"]
+	path = micro
+	url = git@github.com:theelioway/micro.git
+[submodule "nanoid"]
+	path = nanoid
+	url = git@github.com:theelioway/nanoid.git
+[submodule "humps"]
+	path = humps
+	url = https://github.com/theelioway/humps.git
+[submodule "immutable-js"]
+	path = immutable-js
+	url = https://github.com/theelioway/immutable-js.git
+[submodule "contributors"]
+	path = contributors
+	url = https://github.com/theelioway/contributors.git
