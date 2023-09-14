@@ -1,0 +1,24 @@
+[submodule "contributors"]
+	path = contributors
+	url = git@github.com:theelioway/contributors.git
+[submodule "dore"]
+	path = dore
+	url = git@github.com:theelioway/dore.git
+[submodule "gutenburg"]
+	path = gutenburg
+	url = git@github.com:theelioway/gutenburg.git
+[submodule "smith"]
+	path = smith
+	url = git@github.com:theelioway/smith.git
+[submodule "lodash"]
+	path = lodash
+	url = git@github.com:theelioway/lodash.git
+[submodule "nanoid"]
+	path = nanoid
+	url = git@github.com:theelioway/nanoid.git
+[submodule "micro"]
+	path = micro
+	url = git@github.com:theelioway/micro.git
+[submodule "prettier"]
+	path = prettier
+	url = git@github.com:theelioway/prettier.git
