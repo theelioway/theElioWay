@@ -7,6 +7,3 @@
 [submodule "bones"]
 	path = bones
 	url = git@github.com:theelioway/bones.git
-[submodule "flesh"]
-	path = flesh
-	url = git@github.com:theelioway/flesh.git
