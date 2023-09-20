@@ -1,0 +1,6 @@
+[submodule "thing"]
+	path = thing
+	url = git@gitlab.com:eliothing/thing.git
+[submodule "sin"]
+	path = sin
+	url = git@gitlab.com:eliosin/sin.git
