@@ -25,3 +25,21 @@
 [submodule "contributors"]
 	path = contributors
 	url = https://github.com/theelioway/contributors.git
+[submodule "thing"]
+	path = thing
+	url = git@gitlab.com:eliothing/thing
+[submodule "flesh"]
+	path = flesh
+	url = git@gitlab.com:elioflesh/flesh
+[submodule "bones"]
+	path = bones
+	url = git@gitlab.com:eliobones/bones
+[submodule "gabriel"]
+	path = gabriel
+	url = git@gitlab.com:elioangels/gabriel
+[submodule "uriel"]
+	path = uriel
+	url = git@gitlab.com:elioangels/uriel
+[submodule "michael"]
+	path = michael
+	url = git@gitlab.com:elioangels/michael
