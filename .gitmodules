@@ -10,3 +10,9 @@
 [submodule "flesh"]
 	path = flesh
 	url = git@github.com:theelioway/flesh.git
+[submodule "michael"]
+	path = michael
+	url = git@github.com:theelioway/michael.git
+[submodule "gabriel"]
+	path = gabriel
+	url = git@github.com:theelioway/gabriel.git

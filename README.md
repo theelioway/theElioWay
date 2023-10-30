@@ -2,13 +2,17 @@
 
 # theElioWay
 
-A software design pattern for building components, functions, and apps with Schema.org Things, the elioWay
+A software design pattern for building components, functions, and apps with Schema.org `Things`, the elioWay. 
+
+## engage
+
+
+
+
 
 ## Seeing is Believing
 
-```shell
-cd ~/Dev/theelioway
-```
+Nothing to see... yet.
 
 - [Quickstart theElioWay](./quickstart.md)
 
