@@ -3,15 +3,19 @@
   "alternateName": "A cult, not a framework, the elioWay",
   "description": "A software design pattern for building components, functions, and apps with Schema.org Things, the elioWay",
   "disambiguatingDescription": "hope to change torment for ease, the elioWay",
-  "identifier": "theelioway",
-  "mainEntityOfPage": "Thing",
+  "identifier": "the",
+  "mainEntityOfPage": "SoftwareSourceCode",
   "name": "theelioway",
   "sameAs": "https://gitlab.com/elioway",
   "subjectOf": "Way",
   "url": "https://theelioway.Thing.theElioWay.com",
+  "SoftwareSourceCode": {
+    "codeSampleType": "experimental",
+    "targetProduct": "elioway"
+  },
   "WebPage": {
     "breadcrumb": [
-      "theelioway"
+      "elioway"
     ]
   },
   "devDependencies": {
