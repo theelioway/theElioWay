@@ -1,14 +1,12 @@
 {
-  "private": true,
-  "alternateName": "A cult, not a framework, the elioWay",
   "description": "A software design pattern for building components, functions, and apps with Schema.org Things, the elioWay",
   "disambiguatingDescription": "hope to change torment for ease, the elioWay",
   "identifier": "the",
   "mainEntityOfPage": "SoftwareSourceCode",
   "name": "theelioway",
-  "sameAs": "https://gitlab.com/elioway",
+  "sameAs": "https://theElioWay.com",
   "subjectOf": "Way",
-  "url": "https://theelioway.Thing.theElioWay.com",
+  "url": "https://theElioWay.com",
   "SoftwareSourceCode": {
     "codeSampleType": "experimental",
     "targetProduct": "elioway"
@@ -23,6 +21,7 @@
   },
   "homepage": "https://the.Documentation.theElioWay.com",
   "license": "MIT",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/theelioway/theelioway"
