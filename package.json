@@ -25,7 +25,7 @@
   },
   "scripts": {
     "test": "mocha",
-    "prettier": "prettier --list-different --write \"**/*.{css,html,js,json,md,mjs,scss,ts,yaml}\" \"!package.json\""
+    "prettier": "prettier . --list-different --write"
   },
   "type": "module"
 }
